@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/y-todo/static/css/main.3032c729.css",
-    "main.js": "/y-todo/static/js/main.09838183.js",
+    "main.css": "/y-todo/static/css/main.d2deb5fc.css",
+    "main.js": "/y-todo/static/js/main.fe41c9f3.js",
     "static/js/787.8aae731d.chunk.js": "/y-todo/static/js/787.8aae731d.chunk.js",
     "static/media/edit.png": "/y-todo/static/media/edit.7f5e21ee6a839b544a9a.png",
     "static/media/delete.png": "/y-todo/static/media/delete.07cb844800d717b77fb0.png",
     "static/media/list.png": "/y-todo/static/media/list.1a6e9e77320baf08bd4b.png",
+    "static/media/update.png": "/y-todo/static/media/update.024873e2067c52f24962.png",
     "static/media/clock.png": "/y-todo/static/media/clock.475369c30e7718126271.png",
     "static/media/add.png": "/y-todo/static/media/add.0e9304627c08619b66f3.png",
+    "static/media/close.png": "/y-todo/static/media/close.9321bd6354f323fcc57a.png",
     "index.html": "/y-todo/index.html",
-    "main.3032c729.css.map": "/y-todo/static/css/main.3032c729.css.map",
-    "main.09838183.js.map": "/y-todo/static/js/main.09838183.js.map",
+    "main.d2deb5fc.css.map": "/y-todo/static/css/main.d2deb5fc.css.map",
+    "main.fe41c9f3.js.map": "/y-todo/static/js/main.fe41c9f3.js.map",
     "787.8aae731d.chunk.js.map": "/y-todo/static/js/787.8aae731d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3032c729.css",
-    "static/js/main.09838183.js"
+    "static/css/main.d2deb5fc.css",
+    "static/js/main.fe41c9f3.js"
   ]
 }
