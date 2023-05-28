@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/y-todo/static/css/main.57a04628.css",
+    "main.css": "/y-todo/static/css/main.13395f6d.css",
     "main.js": "/y-todo/static/js/main.4abf0e93.js",
     "static/js/787.8aae731d.chunk.js": "/y-todo/static/js/787.8aae731d.chunk.js",
     "static/media/edit.png": "/y-todo/static/media/edit.7f5e21ee6a839b544a9a.png",
@@ -11,12 +11,12 @@
     "static/media/add.png": "/y-todo/static/media/add.0e9304627c08619b66f3.png",
     "static/media/close.png": "/y-todo/static/media/close.9321bd6354f323fcc57a.png",
     "index.html": "/y-todo/index.html",
-    "main.57a04628.css.map": "/y-todo/static/css/main.57a04628.css.map",
+    "main.13395f6d.css.map": "/y-todo/static/css/main.13395f6d.css.map",
     "main.4abf0e93.js.map": "/y-todo/static/js/main.4abf0e93.js.map",
     "787.8aae731d.chunk.js.map": "/y-todo/static/js/787.8aae731d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a04628.css",
+    "static/css/main.13395f6d.css",
     "static/js/main.4abf0e93.js"
   ]
 }
